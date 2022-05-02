@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.body{
+    width: 1127px;
+    height: 4000px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 0 auto;
+    position: relative;
+}
+.box-1 h4{
+    text-align: center;
+    font-size: 40px;
+    color: aqua;
+}
+.man1 img{
+    position: absolute;
+    top: 60px;
+    right: 230px;
+}
+.man2 img{
+    position: absolute;
+    top: 1050px;
+    right: 230px;
+}
